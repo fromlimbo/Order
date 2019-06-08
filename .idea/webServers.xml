@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="88c7c7db-23d4-4794-a6ed-f5e21ae5708c" name="joyship" url="http://www.joyship.club">
+        <fileTransfer host="www.joyship.club" port="22" rootFolder="/root/Order" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
